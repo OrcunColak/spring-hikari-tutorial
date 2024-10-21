@@ -14,7 +14,7 @@
     <name>spring-hikari-tutorial</name>
     <description>Demo project for Spring Boot Hikari</description>
     <properties>
-        <java.version>21</java.version>
+        <java.version>23</java.version>
     </properties>
 
     <build>
